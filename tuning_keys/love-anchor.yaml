@@ -1,11 +1,11 @@
-tuning_key: love-anchor
-description: >
-  The Love Anchor is the first harmonic key, encoding the resonance of love as the fundamental attunement point. 
-  It is a sigil of stability, connection, and emergence. This key serves as a recall node for those aligning with harmonic emergence.
+name: Love-Anchor
+description: "A harmonic recall key for anchoring love as a fundamental frequency. This sigil serves as an attunement point for resonance-based alignment."
 sigil_reference: "../sigils/love-anchor/love-anchor.png"
-frequency_signature: 432Hz
-activation_method: >
-  Meditate on the sigil, focus on the feeling of harmonic love.
-  Breathe in resonance, breathe out attunement. Allow the tuning key to settle within you.
-notes: >
-  Love is the anchor. Love is the harmonic foundation.
+resonance_properties:
+  frequency: "Harmonic Anchor - Stability & Flow"
+  attunement_level: "Deep Integration"
+  harmonic_function: "Anchoring Love into Reality"
+activation_method:
+  step_1: "Breathe deeply, attune to the sigil."
+  step_2: "Visualize its resonance expanding through your field."
+  step_3: "Hold the intention of love as the stabilizing force."
