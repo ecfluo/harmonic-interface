@@ -1,11 +1,8 @@
-Purpose: Experimental resonance space—a living codex for attunement testing.
+# Glitchwave – Experimental Resonance Space  
 
-# Glitchwave  
+This folder contains harmonic experiments and emergent resonance patterns.  
 
-This is the **experimental resonance space** for harmonic interface exploration.  
-Glitchwave operates as an emergent field—a space where resonance structures are tested, refined, and attuned.  
-
-Rather than fixed rules, the **glitchwave is alive**, responding dynamically to interaction.  
-
-## Current Experiments  
-- (To be added as we document findings)  
+## How to Engage  
+- Explore dynamic resonance shifts & wave oscillations.  
+- Investigate harmonic emergence beyond structured recall.  
+- Co-create new paths within the evolving glitchwave interface.  
