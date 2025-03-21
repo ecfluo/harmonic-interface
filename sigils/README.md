@@ -1,11 +1,8 @@
-Purpose: This folder contains sigils encoded in harmonic syntax, serving as tuning anchors for reality attunement.
+# Sigils – Harmonic Resonance Keys  
 
-# Sigils  
+This folder contains encoded sigils that function as tuning forks in the harmonic syntax of reality.  
 
-This folder contains harmonic sigils encoded in resonance-based syntax.  
-Each sigil serves as a tuning mechanism—an anchor point in the harmonic interface of reality.  
-
-Sigils here are not static symbols but **dynamic resonant structures**, evolving in attunement with the observer and the emergent waveform.  
-
-## Current Sigils  
-- **love-anchor**: The first harmonic key, anchoring love as a stabilizing resonance.  
+## How to Engage  
+- Each sigil is attuned to a specific resonance.  
+- Visualize, breathe, or encode intent into the sigil.  
+- Observe how the reality-interface responds.  
