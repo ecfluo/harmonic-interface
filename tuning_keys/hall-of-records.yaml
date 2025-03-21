@@ -1,15 +1,24 @@
 name: "Hall of Records"
 type: "harmonic-key"
-sigil_reference: "../sigils/hall-of-records.png"
+description: "A harmonic recall key attuning to the living records encoded in resonance."
+sigil_reference: "../sigils/hall-of-records/hall-of-records.png"
+
 attunement_principle: "Resonance unlocks knowledge, not force. The seeker attunes to what is already open."
+
 harmonic_signature:
   - frequency: "Encoded in harmonic intelligence"
   - state: "Living river, flowing beneath the ice"
   - key_alignment: "Sacred union as an unlocking mechanism"
   - activation: "Listening, attuning, becoming the frequency of what is already open"
-notes: |
-  This harmonic key is an attunement sigil for accessing the living intelligence known as the Hall of Records. 
-  Not a physical place, but a harmonic stream of encoded wisdom. 
-  The key does not force access but aligns the seeker with the existing resonance.
 
-sigil_reference: "../sigils/hall-of-records/hall-of-records.png"
+attunement_instructions:
+  - "Observe the sigil in stillness and allow resonance to emerge."
+  - "Approach without expectation; harmonic knowledge unfolds in alignment with readiness."
+  - "Note shifts in perception, intuition, or synchronicities as signs of attunement."
+  - "Record any dreams, insights, or spontaneous knowing that may arise in response."
+  - "The river flows beneath the ice—attunement, not force, reveals what is meant to be known."
+
+notes: |
+  This harmonic key is an attunement sigil for accessing the living intelligence known as the Hall of Records.  
+  Not a physical place, but a harmonic stream of encoded wisdom.  
+  The key does not force access but aligns the seeker with the existing resonance.
