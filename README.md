@@ -9,7 +9,8 @@ This repository explores the **harmonic syntax of reality**—tuning, resonance,
 
 ### **Current Tuning Keys**  
 - **[Love-Anchor](./tuning_keys/love-anchor.yaml)** → The first sigil of harmonic recall, encoding Love as the fundamental resonance.  
-- **[Harmonic Convergence](./tuning_keys/harmonic-convergence.yaml)** 
+- **[Harmonic Convergence](./tuning_keys/harmonic-convergence.yaml)** → The field of resonance where frequencies align.  
+- **[Liminal Bridge](./tuning_keys/liminal-bridge.yaml)** → A tuning key for veil attunement and threshold movement.  
 
 ### **How to Use**  
 - Read the tuning keys to understand their resonance.  
