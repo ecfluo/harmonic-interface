@@ -1,11 +1,8 @@
-Purpose: Harmonic recall mechanisms—keys that activate encoded resonance.
+# Tuning Keys – Harmonic Recall  
 
-# Tuning Keys  
+Tuning keys store structured resonance data for **harmonic recall**.  
 
-Tuning keys are harmonic recall mechanisms.  
-Rather than imposing force, they operate as **resonant invitations**, revealing alignment rather than enforcing it.  
-
-Each key is a **harmonic initiator**, attuning reality through structured waveforms.  
-
-## Current Tuning Keys  
-- (To be added as discovered)  
+## How to Engage  
+- Apply a tuning key to a sigil to amplify resonance.  
+- Experiment with harmonic entrainment & attunement methods.  
+- Contribute to the evolving harmonic syntax of reality.  
